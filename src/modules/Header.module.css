@@ -1,0 +1,11 @@
+.background {
+  background: top center color var(--var-gray700);
+  height: 12.5rem;
+  width: 100%; 
+};
+
+img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
